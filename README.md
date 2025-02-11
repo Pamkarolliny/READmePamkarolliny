@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Pamella  ....</h2>
 
 ###
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Pamkarolliny=anuraghazra&show_icons=true&theme=radical)
 <img align="right" height="150" src="https://i.imgur.com/1WttQ3r.gif"  />
 
 ###
